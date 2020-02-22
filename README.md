@@ -1,2 +1,2 @@
 # PYTHON-BASICS
-                                          #BASIC-METHODS#
+                                        # BASIC-METHODS
