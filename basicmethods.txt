@@ -1,0 +1,7 @@
+print(bin(2))
+print('I\'m revanth')
+print("I'm revanth")
+print("\nhii\n" )
+print("iam\t # adds a tab")
+print('=======================')
+#============================================
