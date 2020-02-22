@@ -1,7 +1,8 @@
-print(bin(2))
-print('I\'m revanth')
-print("I'm revanth")
-print("\nhii\n" )
-print("iam\t # adds a tab")
-print('=======================')
-#============================================
+print(bin(2))                  # 0b10
+print('I\'m revanth')          #I'm revanth
+print("I'm revanth")           #I'm revanth 
+print("\nhii\n" )                
+                                hii 
+                                
+print("iam\t # adds a tab")    #iam\t # adds a tab
+#===========================================================================================================
